@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Adding some code here
 Adding yet more code
+=======
+Adding some code hereFix1
+>>>>>>> 9216dbd... Added fix1
